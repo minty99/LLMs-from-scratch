@@ -299,3 +299,7 @@ cython_debug/
 # pixi environments
 .pixi
 *.egg-info
+
+# Manually added
+*.pth
+ch05/gpt2
