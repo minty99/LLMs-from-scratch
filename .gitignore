@@ -302,4 +302,4 @@ cython_debug/
 
 # Manually added
 *.pth
-ch05/gpt2
+gpt2
